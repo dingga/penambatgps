@@ -5,3 +5,6 @@ pandas
 numpy
 pillow
 lapx
+folium
+streamlit-folium
+scipy
